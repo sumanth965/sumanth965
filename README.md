@@ -1,11 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sumanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sumanth Poojary</h1>
+<h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | Creative Frontend Designer</h3>
 
-- 🔭 I’m currently working on [..](....)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🚀 About Me  
+- 🌱 I’m currently exploring **Advanced MERN Stack** and **API Integration**  
+- 💼 Passionate about building **interactive, real-world web applications**  
+- 🎯 Goal: To become a **Full Stack Developer** skilled in scalable & secure applications  
+- ⚡ Fun fact: I love designing creative UI and automating small projects  
+
+---
+
+### 🧠 Tech Stack  
+
+**Frontend:**  
+`React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TailwindCSS`  
+
+**Backend:**  
+`Node.js` · `Express.js` · `MongoDB` · `JWT` · `REST APIs`
+
+**Tools & Others:**  
+`Git` · `GitHub` · `VS Code` · `Render` · `Netlify`
+
+---
+
+### 🏗️ Featured Projects  
+
+| Project | Description | Tech Stack | Live Demo |
+|----------|--------------|------------|------------|
+| 🧮 [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-Excel-Analytics-Project-) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
+| 🍔 [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
+| 🖼️ [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
+| 🛒 [**Cart Page**](https://github.com/sumanth965/Cart_page) | Interactive shopping cart experience built with HTML/CSS/JS. | HTML · CSS · JavaScript | [Demo](https://sumanth09-cartpage.netlify.app/#) |
+| ✅ [**Bucket List**](https://github.com/sumanth965/Buket_List) | Personalized to-do list application. | HTML · CSS · JavaScript | [Demo](https://sumanth09-bucketlist.netlify.app/) |
+| 🔐 [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/sumanth965" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **_“Code. Create. Contribute.”_**  
+<p align="center">If you like my work, consider giving a ⭐ to my repositories!</p>
