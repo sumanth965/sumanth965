@@ -31,8 +31,6 @@
 | 🧮 [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-Excel-Analytics-Project-) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
 | 🍔 [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
 | 🖼️ [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
-| 🛒 [**Cart Page**](https://github.com/sumanth965/Cart_page) | Interactive shopping cart experience built with HTML/CSS/JS. | HTML · CSS · JavaScript | [Demo](https://sumanth09-cartpage.netlify.app/#) |
-| ✅ [**Bucket List**](https://github.com/sumanth965/Buket_List) | Personalized to-do list application. | HTML · CSS · JavaScript | [Demo](https://sumanth09-bucketlist.netlify.app/) |
 | 🔐 [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
 
 ---
