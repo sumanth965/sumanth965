@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumanth Poojary</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | Creative Frontend Designer</h3>
+<h3 align="center">💻 ....
+  Developer..| Creative Frontend Designer</h3>
 
 ---
 
