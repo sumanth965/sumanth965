@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sumanth Poojary</h1>
-<h3 align="center">💻 ...Developer | Creative Frontend Designer</h3>
+<!-- <h3 align="center">💻 ...Developer | Creative Frontend Designer</h3> -->
+<h3 align="center">................</h3>
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently exploring **Advanced MERN Stack** and **API Integration**  
-- 💼 Passionate about building **interactive, real-world web applications**  
-- 🎯 Goal: To become a **Full Stack Developer** skilled in scalable & secure applications  
-- ⚡ Fun fact: I love designing creative UI and automating small projects  
+###  About Me  
+-  I’m currently exploring **Advanced MERN Stack** and **API Integration**  
+-  Passionate about building **interactive, real-world web applications**  
+-  Goal: To become a **Full Stack Developer** skilled in scalable & secure applications  
+-  Fun fact: I love designing creative UI and automating small projects  
 
 ---
 
-### 🧠 Tech Stack  
+###  Tech Stack  
 
 **Frontend:**  
 `React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TailwindCSS`  
@@ -28,10 +29,10 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|------------|------------|
-| 🧮 [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-Excel-Analytics-Project-) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
-| 🍔 [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
-| 🖼️ [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
-| 🔐 [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
+|  [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-Excel-Analytics-Project-) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
+|  [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
+|  [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
+|  [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
 
 ---
 
@@ -48,7 +49,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 
 <p align="left">
 <a href="https://github.com/sumanth965" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
