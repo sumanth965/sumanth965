@@ -29,7 +29,7 @@ https://github.com/sumanth965/leetcode-dsa-solutions
 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" />
 </p>
 ###  Tech Stack  
 ---
