@@ -12,8 +12,7 @@
 
 ---
 
-###  Tech Stack  
----
+
 
 ### 🧠 DSA & LeetCode Practice  
 
@@ -22,15 +21,19 @@
 - 🚀 Solutions are organized and pushed to GitHub  
 
 🔗 **LeetCode Profile:**  
-https://leetcode.com/YkcoTZgusg  
+https://leetcode.com/sumanth965  
 
 📂 **LeetCode Solutions Repository:**  
 https://github.com/sumanth965/leetcode-dsa-solutions  
 
+
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Karma&ext=contest" />
 </p>
-
+###  Tech Stack  
+---
+  
 **Frontend:**  
 `React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TailwindCSS`  
 
