@@ -13,6 +13,23 @@
 ---
 
 ###  Tech Stack  
+---
+
+### 🧠 DSA & LeetCode Practice  
+
+- 📌 Solving **Data Structures & Algorithms** problems regularly on LeetCode  
+- 💡 Focus areas: Arrays, Strings, Linked List, Stack, Queue, Recursion, Trees  
+- 🚀 Solutions are organized and pushed to GitHub  
+
+🔗 **LeetCode Profile:**  
+https://leetcode.com/Sumanth  
+
+📂 **LeetCode Solutions Repository:**  
+https://github.com/sumanth965/leetcode-dsa-solutions  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Karma&ext=contest" />
+</p>
 
 **Frontend:**  
 `React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TailwindCSS`  
