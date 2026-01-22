@@ -22,7 +22,7 @@
 - 🚀 Solutions are organized and pushed to GitHub  
 
 🔗 **LeetCode Profile:**  
-https://leetcode.com/Sumanth  
+https://leetcode.com/YkcoTZgusg  
 
 📂 **LeetCode Solutions Repository:**  
 https://github.com/sumanth965/leetcode-dsa-solutions  
