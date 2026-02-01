@@ -49,7 +49,7 @@ https://github.com/sumanth965/leetcode-dsa-solutions
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|------------|------------|
-|  [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-Excel-Analytics-Project-) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
+|  [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-excel-analytics-/tree/main) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
 |  [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
 |  [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
 |  [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
