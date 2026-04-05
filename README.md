@@ -31,20 +31,7 @@
 
 ---
 
-## 📈 Skills Snapshot
 
-| Skill | Category | Proficiency | Experience | Projects |
-|---|---|---:|---:|---:|
-| React.js | Frontend | 95% | 4 years | 15 |
-| MERN Stack | Full Stack | 92% | 4 years | 15 |
-| JavaScript | Language | 90% | 5 years | 20 |
-| Node.js | Backend | 88% | 4 years | 15 |
-| Express.js | Backend | 85% | 4 years | 15 |
-| MongoDB | Database | 83% | 3 years | 15 |
-| Python | Language | 80% | 3 years | 10 |
-| Java | Language | 78% | 3 years | 2 |
-| TypeScript | Language | 75% | 2 years | 2 |
-| AWS | Cloud | 72% | 2 years | 12 |
 
 ---
 
