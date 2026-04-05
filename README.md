@@ -1,83 +1,91 @@
-<h1 align="center">Hi, I'm Sumanth </h1>
-<!-- <h3 align="center">💻 ...Developer | Creative Frontend Designer</h3> -->
-<h3 align="center">__________________</h3>
-
----
-
-###  About Me  
--  I’m currently exploring **Advanced MERN Stack** and **API Integration**  
--  Passionate about building **interactive, real-world web applications**  
--  Goal: To become a **Full Stack Developer** skilled in scalable & secure applications  
--  Fun fact: I love designing creative UI and automating small projects  
-
----
-
-
-
-### 🧠 DSA & LeetCode Practice  
-
-- 📌 Solving **Data Structures & Algorithms** problems regularly on LeetCode  
-- 💡 Focus areas: Arrays, Strings, Linked List, Stack, Queue, Recursion, Trees  
-- 🚀 Solutions are organized and pushed to GitHub  
-
-🔗 **LeetCode Profile:**  
-https://leetcode.com/sumanth965  
-
-📂 **LeetCode Solutions Repository:**  
-https://github.com/sumanth965/leetcode-dsa-solutions  
-
-
+<h1 align="center">Hi, I'm Sumanth 👋</h1>
+<h3 align="center">Frontend-Focused MERN Developer • Building Practical, User-Friendly Web Apps</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" />
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/sumanth965" target="_blank">GitHub</a> •
+  <a href="https://leetcode.com/sumanth965" target="_blank">LeetCode</a>
 </p>
-###  Tech Stack  
----
-  
-**Frontend:**  
-`React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TailwindCSS`  
 
-**Backend:**  
+---
+
+## 🚀 About Me
+
+- 💻 I build end-to-end web applications using the **MERN stack**.
+- 🧩 I enjoy solving real-world problems with clean UI and practical backend logic.
+- 📈 I’m currently improving my skills in **advanced APIs, authentication flows, and scalable architecture**.
+- 🎯 Career goal: Become a strong **Full Stack Developer** who ships secure and maintainable products.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS`
+
+### Backend
 `Node.js` · `Express.js` · `MongoDB` · `JWT` · `REST APIs`
 
-**Tools & Others:**  
+### Tools
 `Git` · `GitHub` · `VS Code` · `Render` · `Netlify`
 
 ---
 
-### 🏗️ Featured Projects  
+## 🧠 DSA & Problem Solving
 
-| Project | Description | Tech Stack | Live Demo |
-|----------|--------------|------------|------------|
-|  [**MERN Excel Analytics**](https://github.com/sumanth965/MERN-excel-analytics-/tree/main) | Upload, analyze, and visualize Excel files with authentication & charts. | React · Node.js · MongoDB · JWT | — |
-|  [**Foodify**](https://github.com/sumanth965/Foodify) | A full-stack restaurant platform (frontend + backend). | React · Node.js · MongoDB | — |
-|  [**Image Slider**](https://github.com/sumanth965/Image_Slider) | Responsive JS-based image gallery slider. | HTML · CSS · JavaScript | [Demo](https://sumanth09-image-slider.netlify.app/) |
-|  [**Sign-In / Sign-Up Page**](https://github.com/sumanth965/signin-signup-page) | Stylish auth form templates using frontend stack. | React · TailwindCSS | [Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
+- Regularly solving problems on LeetCode to strengthen logic and coding fundamentals.
+- Focus areas include:
+  - Arrays
+  - Strings
+  - Linked Lists
+  - Stacks & Queues
+  - Recursion
+  - Trees
 
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=radical" />
-</p>
+🔗 **LeetCode Profile:** https://leetcode.com/sumanth965
+<br/>
+🔗 **DSA Repository:** https://github.com/sumanth965/leetcode-dsa-solutions
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=radical" />
+  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
 
-###  Connect With Me  
+## 🏗️ Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **MERN Excel Analytics** | Upload, process, and analyze Excel files with authentication and data visualizations. | React · Node.js · Express · MongoDB · JWT | [Repository](https://github.com/sumanth965/MERN-excel-analytics-/tree/main) |
+| **Foodify** | Full-stack restaurant platform with separate frontend and backend architecture. | React · Node.js · Express · MongoDB | [Repository](https://github.com/sumanth965/Foodify) |
+| **Image Slider** | Responsive image slider with smooth interactions and lightweight implementation. | HTML · CSS · JavaScript | [Repository](https://github.com/sumanth965/Image_Slider) · [Live Demo](https://sumanth09-image-slider.netlify.app/) |
+| **Sign-In / Sign-Up UI** | Modern authentication UI built with reusable components and responsive design. | React · Tailwind CSS | [Repository](https://github.com/sumanth965/signin-signup-page) · [Live Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
+
+➡️ More projects and details: **[Visit My Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/sumanth965" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sumanth965" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐ **_“Code. Create. Contribute.”_**  
+⭐ **Code. Create. Contribute.**
 <p align="center">If you like my work, consider giving a ⭐ to my repositories!</p>
