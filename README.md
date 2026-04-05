@@ -62,9 +62,9 @@
 🔗 **LeetCode:** https://leetcode.com/sumanth965
 🔗 **DSA Repository:** https://github.com/sumanth965/leetcode-dsa-solutions
 
-<p align="center">
+<!--<p align="center">
   <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</p>
+</p>-->
 
 ---
 
