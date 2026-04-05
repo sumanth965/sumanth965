@@ -21,13 +21,21 @@
 ## 🧠 Core Skills
 
 ### Languages & Frameworks
-`JavaScript (ES6+)` · `TypeScript` · `React.js` · `Node.js` · `Express.js` · `Python` · `Java`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java" alt="Languages and frameworks: JavaScript, TypeScript, React, Node.js, Express.js, Python, Java" />
+</p>
 
 ### Databases & Cloud
-`MongoDB` · `AWS (EC2, S3, Lambda, CloudFront)`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws" alt="Databases and cloud: MongoDB, AWS" />
+</p>
+<p><sub>AWS services used: EC2, S3, Lambda, CloudFront</sub></p>
 
 ### Practices & Tooling
-`REST APIs` · `JWT Authentication` · `Redux` · `Git/GitHub` · `Deployment (Render, Netlify, Vercel)`
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,git,github,netlify,vercel" alt="Practices and tooling: Redux, Git, GitHub, Netlify, Vercel" />
+</p>
+<p><sub>Also experienced with REST APIs, JWT Authentication, and deployment on Render.</sub></p>
 
 ---
 
