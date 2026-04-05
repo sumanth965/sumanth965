@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sumanth 👋</h1>
-<h3 align="center">Frontend-Focused MERN Developer • Building Practical, User-Friendly Web Apps</h3>
+<h3 align="center">Full-Stack MERN Developer • Building Practical, Scalable, and User-Centered Web Applications</h3>
 
 <p align="center">
   <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">🌐 Portfolio</a> •
@@ -11,57 +11,73 @@
 
 ## 🚀 About Me
 
-- 💻 I build end-to-end web applications using the **MERN stack**.
-- 🧩 I enjoy solving real-world problems with clean UI and practical backend logic.
-- 📈 I’m currently improving my skills in **advanced APIs, authentication flows, and scalable architecture**.
-- 🎯 Career goal: Become a strong **Full Stack Developer** who ships secure and maintainable products.
+- 💻 I develop full-stack applications using the **MERN stack** with a strong focus on usability and maintainability.
+- ⚙️ I enjoy designing clean frontend experiences backed by robust APIs and secure authentication flows.
+- 📈 I’m actively improving in **scalable backend architecture**, **performance optimization**, and **cloud deployment**.
+- 🎯 Career goal: Grow as a high-impact **Full Stack Developer** delivering production-ready software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-### Frontend
-`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS`
+### Languages & Frameworks
+`JavaScript (ES6+)` · `TypeScript` · `React.js` · `Node.js` · `Express.js` · `Python` · `Java`
 
-### Backend
-`Node.js` · `Express.js` · `MongoDB` · `JWT` · `REST APIs`
+### Databases & Cloud
+`MongoDB` · `AWS (EC2, S3, Lambda, CloudFront)`
 
-### Tools
-`Git` · `GitHub` · `VS Code` · `Render` · `Netlify`
+### Practices & Tooling
+`REST APIs` · `JWT Authentication` · `Redux` · `Git/GitHub` · `Deployment (Render, Netlify, Vercel)`
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 📈 Skills Snapshot
 
-- Regularly solving problems on LeetCode to strengthen logic and coding fundamentals.
-- Focus areas include:
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Stacks & Queues
-  - Recursion
-  - Trees
-
-🔗 **LeetCode Profile:** https://leetcode.com/sumanth965
-<br/>
-🔗 **DSA Repository:** https://github.com/sumanth965/leetcode-dsa-solutions
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</p>
+| Skill | Category | Proficiency | Experience | Projects |
+|---|---|---:|---:|---:|
+| React.js | Frontend | 95% | 4 years | 15 |
+| MERN Stack | Full Stack | 92% | 4 years | 15 |
+| JavaScript | Language | 90% | 5 years | 20 |
+| Node.js | Backend | 88% | 4 years | 15 |
+| Express.js | Backend | 85% | 4 years | 15 |
+| MongoDB | Database | 83% | 3 years | 15 |
+| Python | Language | 80% | 3 years | 10 |
+| Java | Language | 78% | 3 years | 2 |
+| TypeScript | Language | 75% | 2 years | 2 |
+| AWS | Cloud | 72% | 2 years | 12 |
 
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **MERN Excel Analytics** | Upload, process, and analyze Excel files with authentication and data visualizations. | React · Node.js · Express · MongoDB · JWT | [Repository](https://github.com/sumanth965/MERN-excel-analytics-/tree/main) |
-| **Foodify** | Full-stack restaurant platform with separate frontend and backend architecture. | React · Node.js · Express · MongoDB | [Repository](https://github.com/sumanth965/Foodify) |
-| **Image Slider** | Responsive image slider with smooth interactions and lightweight implementation. | HTML · CSS · JavaScript | [Repository](https://github.com/sumanth965/Image_Slider) · [Live Demo](https://sumanth09-image-slider.netlify.app/) |
-| **Sign-In / Sign-Up UI** | Modern authentication UI built with reusable components and responsive design. | React · Tailwind CSS | [Repository](https://github.com/sumanth965/signin-signup-page) · [Live Demo](https://su-manth09-signin-signup-page-frontend.onrender.com/) |
+| Project | Category | Description | Tech Highlights | Links |
+|---|---|---|---|---|
+| 🏢 **Employee Leave Management System** | Full Stack | Enterprise leave tracking system with multi-role authentication, approval workflows, and dashboard analytics. | MERN Stack, JWT Auth, Admin Panel | [Repository](https://github.com/sumanth965/Employee-Leave-Management-System) · [Live Demo](https://elms-management.onrender.com/) |
+| 🎯 **Smart Student Productivity System** | Full Stack | Student productivity suite with task management, deadline tracking, and schedule optimization logic. | React, Node.js, Workflow Optimization | [Repository](https://github.com/sumanth965/smart-student-productivity-system) · [Live Demo](https://smart-student-productivity-system.onrender.com/) |
+| 🎮 **Nexus Web Games** | Frontend | Browser game collection focused on responsive UI and smooth in-browser interaction. | JavaScript ES6+, Canvas API | [Repository](https://github.com/sumanth965/nexus-web-games) · [Live Demo](https://nexus-web-games.vercel.app/) |
+| 🎨 **Online Art Auction** | Full Stack | Digital art auction platform with real-time bidding updates and curated galleries. | MERN, WebSocket, Real-time Bidding | [Repository](https://github.com/sumanth965/Online-Art-Auction) · [Live Demo](https://online-art-auction.vercel.app/) |
+| 📊 **MERN Excel Analytics** | Full Stack | Data platform that converts Excel datasets into charts and report-friendly insights. | Excel Parser, Chart.js, Express.js | [Repository](https://github.com/sumanth965/MERN-excel-analytics-) · [Live Demo](https://excel-analytic-sumanth09.onrender.com) |
+| 🎞 **Unified Image Slider** | Frontend | Responsive gallery with smooth transitions, lazy loading, and mobile-first interaction. | CSS Animations, Vite, Performance | [Repository](https://github.com/sumanth965/Image_Slider) · [Live Demo](https://sumanth09-image-slider.netlify.app/) |
+| 🔐 **Secure Cloud Auth** | Full Stack | Authentication system with encrypted session handling and role-based access control. | Session Management, Hashing, Auth Flow | [Repository](https://github.com/sumanth965/signin-signup-page) · [Live Demo](https://su-manth09-signin-signup-page-frontend.onrender.com) |
+| 🍔 **Foodify** | Full Stack | Food delivery platform with menu handling, order flow, and admin controls. | Real-time Tracking, Redux | [Repository](https://github.com/sumanth965/Foodify) · [Live Demo](https://foodify-frontend-4vlo.onrender.com) |
+| 📱 **TST Gadgets - Frontend** | Frontend | High-conversion gadget storefront frontend built with responsive, modular UI patterns. | E-commerce UI, Responsive Design | [Repository](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Live Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
+| ⚙️ **TST Gadgets - Admin** | Full Stack | Admin platform for inventory lifecycle and secure product data operations. | Inventory Control, Data Sync | [Repository](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Live Demo](https://tst-electronic-gadgets-su-manth09-admin.onrender.com) |
 
-➡️ More projects and details: **[Visit My Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**
+➡️ Explore additional details in my **[Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**.
+
+---
+
+## 🧩 DSA & Problem Solving
+
+- I regularly practice algorithmic problem solving to sharpen logic and coding fundamentals.
+- Focus areas: **Arrays, Strings, Linked Lists, Trees, Recursion, Stacks & Queues**.
+
+🔗 **LeetCode:** https://leetcode.com/sumanth965
+🔗 **DSA Repository:** https://github.com/sumanth965/leetcode-dsa-solutions
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -88,4 +104,4 @@
 ---
 
 ⭐ **Code. Create. Contribute.**
-<p align="center">If you like my work, consider giving a ⭐ to my repositories!</p>
+<p align="center">If you find my work helpful, consider giving a ⭐ to my repositories.</p>
