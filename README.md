@@ -1,11 +1,30 @@
-<h1 align="center">Hi, I'm Sumanth 👋</h1>
+<!-- <h1 align="center">Hi, I'm Sumanth 👋</h1>
 <h3 align="center">Full-Stack MERN Developer • Building Practical, Scalable, and User-Centered Web Applications</h3>
 
 <p align="center">
   <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">🌐 Portfolio</a> •
   <a href="https://github.com/sumanth965" target="_blank">GitHub</a> •
   <a href="https://leetcode.com/sumanth965" target="_blank">LeetCode</a>
+</p> -->
+<div align="center">
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sumanth+%F0%9F%91%8B;Full-Stack+MERN+Developer;Building+Scalable+Web+Apps;Code.+Create.+Contribute." alt="Typing SVG" />
+<br/>
+<p>
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
