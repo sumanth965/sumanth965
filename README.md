@@ -1,102 +1,219 @@
-<h1 align="center">Hi, I'm Sumanth 👋</h1>
-<h3 align="center">Full-Stack MERN Developer • Building Practical, Scalable, and User-Centered Web Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/sumanth965" target="_blank">GitHub</a> •
-  <a href="https://leetcode.com/sumanth965" target="_blank">LeetCode</a>
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sumanth+%F0%9F%91%8B;Full-Stack+MERN+Developer;Building+Scalable+Web+Apps;Code.+Create.+Contribute." alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
 
-## 🚀 About Me
-
-- 💻 I develop full-stack applications using the **MERN stack** with a strong focus on usability and maintainability.
-- ⚙️ I enjoy designing clean frontend experiences backed by robust APIs and secure authentication flows.
-- 📈 I’m actively improving in **scalable backend architecture**, **performance optimization**, and **cloud deployment**.
-- 🎯 Career goal: Grow as a high-impact **Full Stack Developer** delivering production-ready software.
+</div>
 
 ---
 
-## 🧠 Core Skills
+## 👨‍💻 About Me
+
+```javascript
+const sumanth = {
+  role     : "Full-Stack MERN Developer",
+  focus    : ["Usability", "Maintainability", "Scalable Architecture"],
+  learning : ["Cloud Deployment", "Performance Optimization", "System Design"],
+  goal     : "Deliver production-ready software as a high-impact Full Stack Developer",
+  funFact  : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+- 💻 I build full-stack applications using the **MERN stack** with clean UX and robust APIs.
+- ⚙️ Passionate about **secure authentication flows**, **RESTful API design**, and **real-time systems**.
+- 📈 Actively levelling up in **scalable backend architecture**, **AWS cloud services**, and **system design**.
+- 🎯 Career goal: Grow as a **Full Stack Developer** shipping impactful, production-grade software.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java" alt="Languages and frameworks: JavaScript, TypeScript, React, Node.js, Express.js, Python, Java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java" />
 </p>
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,aws" alt="Databases and cloud: MongoDB, AWS" />
+  <img src="https://skillicons.dev/icons?i=mongodb,aws" />
 </p>
-<p><sub>AWS services used: EC2, S3, Lambda, CloudFront</sub></p>
+<sub>☁️ AWS Services: EC2 · S3 · Lambda · CloudFront</sub>
 
-### Practices & Tooling
+### Tools & Practices
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,git,github,netlify,vercel" alt="Practices and tooling: Redux, Git, GitHub, Netlify, Vercel" />
+  <img src="https://skillicons.dev/icons?i=redux,git,github,netlify,vercel,vite" />
 </p>
-<p><sub>Also experienced with REST APIs, JWT Authentication, and deployment on Render.</sub></p>
+<sub>🔧 Also experienced with: REST APIs · JWT Auth · WebSockets · Render · Session Management</sub>
 
 ---
 
+## 🏆 GitHub Achievements
 
+> Milestones earned through open-source contributions and community engagement.
+
+<div align="center">
+
+| Badge | Achievement | Description |
+|:---:|:---:|:---|
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60" /> | **Pull Shark** | Opened pull requests that got merged |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60" /> | **YOLO** | Merged a pull request without a review |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60" /> | **Quickdraw** | Closed an issue/PR within 5 minutes of opening |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png?raw=true" width="60" /> | **Starstruck** | Created a repository with many stars |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60" /> | **Pair Extraordinaire** | Co-authored commits on merged pull requests |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/heart-on-your-sleeve-default.png?raw=true" width="60" /> | **Heart on Your Sleeve** | Reacted to community content with ❤️ |
+| <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/open-sourcerer-default.png?raw=true" width="60" /> | **Open Sourcerer** | Had PRs merged in multiple public repositories |
+
+</div>
+
+> ⚠️ **Note:** Remove any badges above that you haven't earned yet. Verify at [github.com/sumanth965?tab=achievements](https://github.com/sumanth965?tab=achievements)
 
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Category | Description | Tech Highlights | Links |
-|---|---|---|---|---|
-| 🏢 **Employee Leave Management System** | Full Stack | Enterprise leave tracking system with multi-role authentication, approval workflows, and dashboard analytics. | MERN Stack, JWT Auth, Admin Panel | [Repository](https://github.com/sumanth965/Employee-Leave-Management-System) · [Live Demo](https://elms-management.onrender.com/) |
-| 🎯 **Smart Student Productivity System** | Full Stack | Student productivity suite with task management, deadline tracking, and schedule optimization logic. | React, Node.js, Workflow Optimization | [Repository](https://github.com/sumanth965/smart-student-productivity-system) · [Live Demo](https://smart-student-productivity-system.onrender.com/) |
-| 🎮 **Nexus Web Games** | Frontend | Browser game collection focused on responsive UI and smooth in-browser interaction. | JavaScript ES6+, Canvas API | [Repository](https://github.com/sumanth965/nexus-web-games) · [Live Demo](https://nexus-web-games.vercel.app/) |
-| 🎨 **Online Art Auction** | Full Stack | Digital art auction platform with real-time bidding updates and curated galleries. | MERN, WebSocket, Real-time Bidding | [Repository](https://github.com/sumanth965/Online-Art-Auction) · [Live Demo](https://online-art-auction.vercel.app/) |
-| 📊 **MERN Excel Analytics** | Full Stack | Data platform that converts Excel datasets into charts and report-friendly insights. | Excel Parser, Chart.js, Express.js | [Repository](https://github.com/sumanth965/MERN-excel-analytics-) · [Live Demo](https://excel-analytic-sumanth09.onrender.com) |
-| 🎞 **Unified Image Slider** | Frontend | Responsive gallery with smooth transitions, lazy loading, and mobile-first interaction. | CSS Animations, Vite, Performance | [Repository](https://github.com/sumanth965/Image_Slider) · [Live Demo](https://sumanth09-image-slider.netlify.app/) |
-| 🔐 **Secure Cloud Auth** | Full Stack | Authentication system with encrypted session handling and role-based access control. | Session Management, Hashing, Auth Flow | [Repository](https://github.com/sumanth965/signin-signup-page) · [Live Demo](https://su-manth09-signin-signup-page-frontend.onrender.com) |
-| 🍔 **Foodify** | Full Stack | Food delivery platform with menu handling, order flow, and admin controls. | Real-time Tracking, Redux | [Repository](https://github.com/sumanth965/Foodify) · [Live Demo](https://foodify-frontend-4vlo.onrender.com) |
-| 📱 **TST Gadgets - Frontend** | Frontend | High-conversion gadget storefront frontend built with responsive, modular UI patterns. | E-commerce UI, Responsive Design | [Repository](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Live Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
-| ⚙️ **TST Gadgets - Admin** | Full Stack | Admin platform for inventory lifecycle and secure product data operations. | Inventory Control, Data Sync | [Repository](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Live Demo](https://tst-electronic-gadgets-su-manth09-admin.onrender.com) |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Category</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>🏢 <b>Employee Leave Management System</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Enterprise leave tracking with multi-role auth, approval workflows & dashboard analytics</td>
+    <td>MERN · JWT · Admin Panel</td>
+    <td><a href="https://github.com/sumanth965/Employee-Leave-Management-System">Repo</a> · <a href="https://elms-management.onrender.com/">Live</a></td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Smart Student Productivity System</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Productivity suite with task management, deadline tracking & schedule optimization</td>
+    <td>React · Node.js · Workflow Engine</td>
+    <td><a href="https://github.com/sumanth965/smart-student-productivity-system">Repo</a> · <a href="https://smart-student-productivity-system.onrender.com/">Live</a></td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Online Art Auction</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Real-time digital art auction platform with live bidding & curated galleries</td>
+    <td>MERN · WebSocket · Real-time</td>
+    <td><a href="https://github.com/sumanth965/Online-Art-Auction">Repo</a> · <a href="https://online-art-auction.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
+    <td>📊 <b>MERN Excel Analytics</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Converts Excel datasets into interactive charts and report-ready visual insights</td>
+    <td>Excel Parser · Chart.js · Express</td>
+    <td><a href="https://github.com/sumanth965/MERN-excel-analytics-">Repo</a> · <a href="https://excel-analytic-sumanth09.onrender.com">Live</a></td>
+  </tr>
+  <tr>
+    <td>🍔 <b>Foodify</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Food delivery platform with menu handling, order flow & admin controls</td>
+    <td>MERN · Redux · Real-time Tracking</td>
+    <td><a href="https://github.com/sumanth965/Foodify">Repo</a> · <a href="https://foodify-frontend-4vlo.onrender.com">Live</a></td>
+  </tr>
+  <tr>
+    <td>🔐 <b>Secure Cloud Auth</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>Auth system with encrypted sessions, hashing & role-based access control</td>
+    <td>JWT · RBAC · Hashing</td>
+    <td><a href="https://github.com/sumanth965/signin-signup-page">Repo</a> · <a href="https://su-manth09-signin-signup-page-frontend.onrender.com">Live</a></td>
+  </tr>
+  <tr>
+    <td>🎮 <b>Nexus Web Games</b></td>
+    <td><img src="https://img.shields.io/badge/Frontend-7B2D8B?style=flat"/></td>
+    <td>Browser game collection with responsive UI and smooth in-browser interactions</td>
+    <td>JS ES6+ · Canvas API</td>
+    <td><a href="https://github.com/sumanth965/nexus-web-games">Repo</a> · <a href="https://nexus-web-games.vercel.app/">Live</a></td>
+  </tr>
+  <tr>
+    <td>🛍️ <b>TST Gadgets</b></td>
+    <td><img src="https://img.shields.io/badge/Full Stack-0078D4?style=flat"/></td>
+    <td>High-conversion gadget storefront with inventory management & admin panel</td>
+    <td>E-commerce UI · Inventory Control</td>
+    <td><a href="https://github.com/sumanth965/TST_Electronic_Gadgets-">Repo</a> · <a href="https://tst-electronic-gadgets-su-manth09.onrender.com">Live</a></td>
+  </tr>
+  <tr>
+    <td>🎞 <b>Unified Image Slider</b></td>
+    <td><img src="https://img.shields.io/badge/Frontend-7B2D8B?style=flat"/></td>
+    <td>Responsive gallery with smooth transitions, lazy loading & mobile-first design</td>
+    <td>CSS Animations · Vite · Performance</td>
+    <td><a href="https://github.com/sumanth965/Image_Slider">Repo</a> · <a href="https://sumanth09-image-slider.netlify.app/">Live</a></td>
+  </tr>
+</table>
 
-➡️ Explore additional details in my **[Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**.
+➡️ See all projects on my **[Portfolio →](https://portfolio-sumanth-wiee.onrender.com/)**
 
 ---
 
 ## 🧩 DSA & Problem Solving
 
-- I regularly practice algorithmic problem solving to sharpen logic and coding fundamentals.
-- Focus areas: **Arrays, Strings, Linked Lists, Trees, Recursion, Stacks & Queues**.
+<div align="center">
 
-🔗 **LeetCode:** https://leetcode.com/sumanth965
-🔗 **DSA Repository:** https://github.com/sumanth965/leetcode-dsa-solutions
+| Focus Area | Topics |
+|:---:|:---|
+| 📦 **Data Structures** | Arrays · Strings · Linked Lists · Trees · Stacks & Queues |
+| ⚡ **Algorithms** | Recursion · Sorting · Searching · Dynamic Programming |
+| 🏋️ **Practice Platform** | [LeetCode — sumanth965](https://leetcode.com/sumanth965) |
+| 📁 **Solutions Repo** | [leetcode-dsa-solutions](https://github.com/sumanth965/leetcode-dsa-solutions) |
 
-<!--<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumanth965?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</p>-->
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/sumanth965" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-⭐ **Code. Create. Contribute.**
-<p align="center">If you find my work helpful, consider giving a ⭐ to my repositories.</p>
+<br/><br/>
+
+> 💡 *"Build things that matter. Ship code that lasts."*
+
+<sub>⭐ If you find my work helpful, consider starring my repositories — it really helps!</sub>
+
+</div>
