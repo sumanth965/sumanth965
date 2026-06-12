@@ -33,7 +33,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```ts
 const sumanth = {
