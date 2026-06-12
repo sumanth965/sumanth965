@@ -47,15 +47,15 @@ const sumanth = {
 };
 ```
 
-- 💻 I build full-stack apps with the **MERN stack** — clean UIs, robust APIs, secure auth flows.
-- ⚙️ Currently leveling up in **scalable backend architecture**, **cloud deployment** & **performance optimization**.
-- 🎯 Career goal: ship production-ready software that matters.
+-  I build full-stack apps with the **MERN stack** — clean UIs, robust APIs, secure auth flows.
+-  Currently leveling up in **scalable backend architecture**, **cloud deployment** & **performance optimization**.
+-  Career goal: ship production-ready software that matters.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚡ Languages & Frameworks
+###  Languages & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java&theme=dark" alt="Languages and Frameworks" />
