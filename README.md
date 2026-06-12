@@ -79,17 +79,7 @@ const sumanth = {
 
 ---
 
-## 📊 Proficiency
 
-| Skill | Level | Bar |
-|---|---|---|
-| React / JavaScript | 90% | `█████████░` |
-| Node.js / APIs | 85% | `████████░░` |
-| MongoDB | 80% | `████████░░` |
-| TypeScript | 75% | `███████░░░` |
-| AWS Cloud | 65% | `██████░░░░` |
-
----
 
 ## 📈 GitHub Stats
 
