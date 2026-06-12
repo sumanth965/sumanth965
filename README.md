@@ -102,12 +102,12 @@ const sumanth = {
 
 | 🏷️ | Project | Description | Stack | Links |
 |---|---|---|---|---|
-| 🏢 | **Employee Leave Management** | Enterprise leave tracking · multi-role auth · approval workflows · analytics dashboard | `MERN` `JWT` | [Code](https://github.com/sumanth965/Employee-Leave-Management-System) · [Demo](https://elms-management.onrender.com/) |
-| 🎯 | **Smart Student Productivity** | Task management · deadline tracking · schedule optimization | `React` `Node.js` | [Code](https://github.com/sumanth965/smart-student-productivity-system) · [Demo](https://smart-student-productivity-system.onrender.com/) |
-| 🎨 | **Online Art Auction** | Real-time auction platform · WebSocket bidding · curated galleries | `MERN` `WebSocket` | [Code](https://github.com/sumanth965/Online-Art-Auction) · [Demo](https://online-art-auction.vercel.app/) |
-| 📊 | **MERN Excel Analytics** | Converts Excel datasets → visual charts & report insights | `Chart.js` `Express` | [Code](https://github.com/sumanth965/MERN-excel-analytics-) · [Demo](https://excel-analytic-sumanth09.onrender.com) |
-| 🍔 | **Foodify** | Food delivery platform · menu management · order flow · admin panel | `MERN` `Redux` | [Code](https://github.com/sumanth965/Foodify) · [Demo](https://foodify-frontend-4vlo.onrender.com) |
-| 📱 | **TST Gadgets** | E-commerce gadget storefront + admin panel for inventory & products | `MERN` `E-commerce` | [Code](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
+| 1 | **Employee Leave Management** | Enterprise leave tracking · multi-role auth · approval workflows · analytics dashboard | `MERN` `JWT` | [Code](https://github.com/sumanth965/Employee-Leave-Management-System) · [Demo](https://elms-management.onrender.com/) |
+| 2 | **Smart Student Productivity** | Task management · deadline tracking · schedule optimization | `React` `Node.js` | [Code](https://github.com/sumanth965/smart-student-productivity-system) · [Demo](https://smart-student-productivity-system.onrender.com/) |
+| 3 | **Online Art Auction** | Real-time auction platform · WebSocket bidding · curated galleries | `MERN` `WebSocket` | [Code](https://github.com/sumanth965/Online-Art-Auction) · [Demo](https://online-art-auction.vercel.app/) |
+| 4 | **MERN Excel Analytics** | Converts Excel datasets → visual charts & report insights | `Chart.js` `Express` | [Code](https://github.com/sumanth965/MERN-excel-analytics-) · [Demo](https://excel-analytic-sumanth09.onrender.com) |
+| 5 | **Foodify** | Food delivery platform · menu management · order flow · admin panel | `MERN` `Redux` | [Code](https://github.com/sumanth965/Foodify) · [Demo](https://foodify-frontend-4vlo.onrender.com) |
+| 6 | **TST Gadgets** | E-commerce gadget storefront + admin panel for inventory & products | `MERN` `E-commerce` | [Code](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
 
 </div>
 
