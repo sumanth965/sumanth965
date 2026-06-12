@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" class="dark">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sumanth — Full-Stack MERN Developer</title>
+
   
   <!-- Fonts & Icons -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -447,4 +442,4 @@
 
   </main>
 </body>
-</html>
+
