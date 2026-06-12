@@ -53,7 +53,7 @@ const sumanth = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ###  Languages & Frameworks
 
@@ -61,7 +61,7 @@ const sumanth = {
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-### ☁️ Databases & Cloud
+###  Databases & Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,aws,redis&theme=dark" alt="Databases and Cloud" />
@@ -81,7 +81,7 @@ const sumanth = {
 
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const sumanth = {
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const sumanth = {
 
 ---
 
-## 🧩 DSA & Problem Solving
+##  DSA & Problem Solving
 
 <div align="center">
 
@@ -132,7 +132,7 @@ const sumanth = {
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
