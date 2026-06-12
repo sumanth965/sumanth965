@@ -1,124 +1,173 @@
-<!--
-  Profile README for sumanth965
-  Goal: keep this page fast, GitHub-native, accessible, and easy to maintain.
--->
-
 <div align="center">
 
-# Hi, I'm Sumanth 👋
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   ANIMATED HEADER                   -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-### Full-Stack MERN Developer · React Specialist · DSA Practitioner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:06b6d4&height=200&section=header&text=Sumanth&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-I build polished, production-minded web applications with clean interfaces, secure APIs, and scalable deployment workflows.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sumanth-wiee.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-sumanth965-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumanth965)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sumanth965-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sumanth965)
-[![DSA Repo](https://img.shields.io/badge/DSA_Solutions-Repository-0ea5e9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sumanth965/leetcode-dsa-solutions)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=%3C+Full-Stack+MERN+Developer+%2F%3E;Building+Scalable+Web+Apps+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Open+to+Opportunities+%F0%9F%8C%9F;Code.+Create.+Contribute." alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Profile Views + Social Badges -->
+<p>
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=0e7490" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&color=1e293b" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile+Views&color=0e7490&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 💻 I develop full-stack applications with **MongoDB, Express.js, React, and Node.js**.
-- 🔐 I focus on **secure authentication**, **role-based access**, **REST APIs**, and maintainable frontend architecture.
-- ☁️ I am building stronger deployment skills with **AWS EC2, S3, Lambda, CloudFront, Render, Vercel, and Netlify**.
-- 🧠 I practice **data structures and algorithms** consistently to strengthen problem-solving depth.
-- 🎯 Goal: become a high-impact full-stack engineer who ships reliable software with excellent user experience.
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Languages & Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-
-### Backend, Databases & Cloud
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=fff)
-
-### Programming & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-| Project | What it demonstrates | Tech / Concepts | Links |
-| --- | --- | --- | --- |
-| **Employee Leave Management System** | Enterprise-style leave tracking with multi-role authentication, approval flows, and dashboards. | MERN, JWT, RBAC, Analytics | [Code](https://github.com/sumanth965/Employee-Leave-Management-System) · [Demo](https://elms-management.onrender.com/) |
-| **Smart Student Productivity System** | Student productivity workflow for tasks, deadlines, and schedule organization. | React, Node.js, REST APIs | [Code](https://github.com/sumanth965/smart-student-productivity-system) · [Demo](https://smart-student-productivity-system.onrender.com/) |
-| **Online Art Auction** | Real-time auction experience with bidding interactions and digital art listings. | MERN, WebSocket, Real-time UX | [Code](https://github.com/sumanth965/Online-Art-Auction) · [Demo](https://online-art-auction.vercel.app/) |
-| **MERN Excel Analytics** | Spreadsheet upload and chart-based analytics for report-ready insights. | MERN, Chart.js, Data Visualization | [Code](https://github.com/sumanth965/MERN-excel-analytics-) · [Demo](https://excel-analytic-sumanth09.onrender.com) |
-| **Foodify** | Food delivery application with menu browsing, order flow, and admin controls. | MERN, Redux, E-commerce UX | [Code](https://github.com/sumanth965/Foodify) · [Demo](https://foodify-frontend-4vlo.onrender.com) |
-| **TST Gadgets** | Gadget storefront with product and inventory management capabilities. | MERN, Admin Panel, E-commerce | [Code](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
-
----
-
-## 📈 GitHub Snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sumanth's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true" alt="Sumanth's most used languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sumanth965&theme=tokyonight&hide_border=true" alt="Sumanth's GitHub contribution streak" />
-
-</div>
-
----
-
-## 🧭 Current Focus
+## 🧑‍💻 About Me
 
 ```ts
-const currentFocus = {
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  sharpening: ["TypeScript", "AWS", "System Design"],
-  practicing: "Data Structures & Algorithms",
-  objective: "Ship reliable full-stack products with clean UX and maintainable architecture",
+const sumanth = {
+  role:     "Full-Stack MERN Developer",
+  stack:    ["React", "Node.js", "MongoDB", "Express", "TypeScript"],
+  cloud:    ["AWS EC2", "S3", "Lambda", "CloudFront"],
+  solving:  "DSA daily on LeetCode",
+  learning: ["Scalable Architecture", "Performance Optimization", "System Design"],
+  goal:     "High-impact Full Stack Engineer 🚀",
+  status:   "✅ Open to opportunities",
 };
 ```
 
+- 💻 I build full-stack apps with the **MERN stack** — clean UIs, robust APIs, secure auth flows.
+- ⚙️ Currently leveling up in **scalable backend architecture**, **cloud deployment** & **performance optimization**.
+- 🎯 Career goal: ship production-ready software that matters.
+
 ---
 
-## 🤝 Let's Connect
+## 🛠️ Tech Stack
 
-- 🌐 Portfolio: [portfolio-sumanth-wiee.onrender.com](https://portfolio-sumanth-wiee.onrender.com/)
-- 💻 GitHub: [github.com/sumanth965](https://github.com/sumanth965)
-- 🧩 LeetCode: [leetcode.com/sumanth965](https://leetcode.com/sumanth965)
-- 📚 DSA Solutions: [leetcode-dsa-solutions](https://github.com/sumanth965/leetcode-dsa-solutions)
+### ⚡ Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java&theme=dark" alt="Languages and Frameworks" />
+</p>
+
+### ☁️ Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,aws,redis&theme=dark" alt="Databases and Cloud" />
+</p>
+
+<sub>AWS services: EC2 · S3 · Lambda · CloudFront</sub>
+
+### 🔧 Tooling & Practices
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,git,github,vite,docker,vercel,netlify&theme=dark" alt="Tools" />
+</p>
+
+<sub>Also: REST APIs · JWT Auth · WebSocket · Render · Chart.js</sub>
+
+---
+
+## 📊 Proficiency
+
+| Skill | Level | Bar |
+|---|---|---|
+| React / JavaScript | 90% | `█████████░` |
+| Node.js / APIs | 85% | `████████░░` |
+| MongoDB | 80% | `████████░░` |
+| TypeScript | 75% | `███████░░░` |
+| AWS Cloud | 65% | `██████░░░░` |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-### ⭐ Code. Create. Contribute.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
 
-If my work helps you or inspires an idea, feel free to star a repo or connect with me.
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| 🏷️ | Project | Description | Stack | Links |
+|---|---|---|---|---|
+| 🏢 | **Employee Leave Management** | Enterprise leave tracking · multi-role auth · approval workflows · analytics dashboard | `MERN` `JWT` | [Code](https://github.com/sumanth965/Employee-Leave-Management-System) · [Demo](https://elms-management.onrender.com/) |
+| 🎯 | **Smart Student Productivity** | Task management · deadline tracking · schedule optimization | `React` `Node.js` | [Code](https://github.com/sumanth965/smart-student-productivity-system) · [Demo](https://smart-student-productivity-system.onrender.com/) |
+| 🎨 | **Online Art Auction** | Real-time auction platform · WebSocket bidding · curated galleries | `MERN` `WebSocket` | [Code](https://github.com/sumanth965/Online-Art-Auction) · [Demo](https://online-art-auction.vercel.app/) |
+| 📊 | **MERN Excel Analytics** | Converts Excel datasets → visual charts & report insights | `Chart.js` `Express` | [Code](https://github.com/sumanth965/MERN-excel-analytics-) · [Demo](https://excel-analytic-sumanth09.onrender.com) |
+| 🍔 | **Foodify** | Food delivery platform · menu management · order flow · admin panel | `MERN` `Redux` | [Code](https://github.com/sumanth965/Foodify) · [Demo](https://foodify-frontend-4vlo.onrender.com) |
+| 📱 | **TST Gadgets** | E-commerce gadget storefront + admin panel for inventory & products | `MERN` `E-commerce` | [Code](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
+
+</div>
+
+> 🔗 Explore all projects → **[Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**
+
+---
+
+## 🧩 DSA & Problem Solving
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Trees%20%7C%20DP%20%7C%20Graphs-22d3ee?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Practice-Daily-10b981?style=for-the-badge&logoColor=white&labelColor=0f172a" />
+
+</div>
+
+<br/>
+
+- 🔗 **LeetCode:** [leetcode.com/sumanth965](https://leetcode.com/sumanth965)
+- 🔗 **DSA Solutions Repo:** [leetcode-dsa-solutions](https://github.com/sumanth965/leetcode-dsa-solutions)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%40sumanth965-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0e7490?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-sumanth965-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumanth965/leetcode-dsa-solutions" target="_blank">
+  <img src="https://img.shields.io/badge/DSA%20Repo-Solutions-6366f1?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:0d1117&height=120&section=footer&text=⭐%20Code.%20Create.%20Contribute.&fontSize=20&fontColor=94a3b8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
