@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<!-- Profile Views + Social Badges -->
+<!-- Profile Views + Social Badges..... -->
 <p>
   <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=0e7490" alt="Portfolio"/>
@@ -37,7 +37,7 @@
 
 ```ts
 const sumanth = {
-  role:     "Full-Stack MERN Developer",
+  role:     "Full-Stack MERN Developer..",
   stack:    ["React", "Node.js", "MongoDB", "Express", "TypeScript"],
   cloud:    ["AWS EC2", "S3", "Lambda", "CloudFront"],
   solving:  "DSA daily on LeetCode",
