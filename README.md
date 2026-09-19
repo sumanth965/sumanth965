@@ -19,21 +19,25 @@
 
 <br/>
 
-<p>
+<p align="center">
+  <a href="https://github.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&color=1e293b" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sumanth-poojary-2a1052246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/sumanth965" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
   <a href="https://komarev.com/ghpvc/?username=sumanth965&label=Profile%20Views&color=06b6d4&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
-  </a>
-
-  <a href="https://github.com/sumanth965?tab=followers">
-    <img src="https://img.shields.io/github/followers/sumanth965?logo=github&style=for-the-badge&color=0e7490&labelColor=0f172a" alt="GitHub Followers"/>
-  </a>
-
-  <a href="https://github.com/sumanth965?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sumanth965?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8&labelColor=0f172a" alt="GitHub Stars"/>
-  </a>
-
-  <a href="https://portfolio-sumanth-wiee.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Portfolio"/>
   </a>
 </p>
 
@@ -157,80 +161,7 @@ const sumanth = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     DSA SECTION                               -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧠 DSA & Problem Solving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Trees%20%7C%20DP%20%7C%20Graphs-38bdf8?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" />
-
- 
-
-<img src="https://img.shields.io/badge/Practice-Daily-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0f172a" />
-
-<br/><br/>
-
-<a href="https://leetcode.com/sumanth965">
-  <img src="https://img.shields.io/badge/LeetCode-sumanth965-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
- 
-
-<a href="https://github.com/sumanth965/leetcode-dsa-solutions">
-  <img src="https://img.shields.io/badge/DSA%20Repo-Solutions-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-* 🔗 **LeetCode:** [leetcode.com/sumanth965](https://leetcode.com/sumanth965)
-* 🔗 **DSA Solutions Repo:** [leetcode-dsa-solutions](https://github.com/sumanth965/leetcode-dsa-solutions)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     CONNECT                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/sumanth965" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%40sumanth965-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0e7490?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://leetcode.com/sumanth965" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-sumanth965-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
- 
-
-<a href="https://github.com/sumanth965/leetcode-dsa-solutions" target="_blank">
-  <img src="https://img.shields.io/badge/DSA%20Repo-Solutions-2563eb?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
