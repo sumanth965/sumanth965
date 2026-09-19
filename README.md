@@ -8,7 +8,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f3b57,100:06b6d4&height=170&section=header&text=Sumanth&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://res.cloudinary.com/zuxdlzob/image/upload/v1789833412/header.png" width="100%" alt="Header Banner" />
 
 <br/>
 
