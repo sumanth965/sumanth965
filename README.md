@@ -73,43 +73,29 @@ const sumanth = {
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<h2>🛠️ Tech Stack</h2>
+### 💻 Languages & Frameworks
 
-<br/>
-
-<h3>💻 Languages & Frameworks</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-<br/>
+### ☁️ Databases & Cloud
 
-<h3>☁️ Databases & Cloud</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,aws,redis&theme=dark" alt="Databases and Cloud" />
 </p>
 
-<p align="center">
-  <sub><b>AWS Services:</b> EC2 · S3 · Lambda · CloudFront</sub>
-</p>
+<sub><b>AWS services:</b> EC2 · S3 · Lambda · CloudFront</sub>
 
-<br/>
+### 🔧 Tooling & Practices
 
-<h3>🔧 Tooling & Practices</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=redux,git,github,vite,docker,vercel,netlify&theme=dark" alt="Tools" />
 </p>
 
-<p align="center">
-  <sub><b>Also:</b> REST APIs · JWT Auth · WebSocket · Render · Chart.js</sub>
-</p>
-
-</div>
+<sub><b>Also:</b> REST APIs · JWT Auth · WebSocket · Render · Chart.js</sub>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -123,15 +109,20 @@ const sumanth = {
 
 <div align="center">
 
-### 📈 GitHub Stats
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
+<br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
 
 </div>
 
