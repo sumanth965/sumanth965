@@ -1,20 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!--                   HERO BANNER                       -->
+<!--                   ANIMATED HEADER                   -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0891b2,70:0e7490,100:06b6d4&height=220&section=header&text=Sumanth&fontSize=75&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20MERN%20Developer&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:06b6d4&height=200&section=header&text=Sumanth&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Animated Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=%3C+Full-Stack+MERN+Developer+%2F%3E;Building+Scalable+Web+Apps+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Open+to+Opportunities+%F0%9F%8C%9F;Code.+Create.+Contribute." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=%3C+Full-Stack+MERN+Developer+%2F%3E;Building+Scalable+Web+Apps+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Open+to+Opportunities+%F0%9F%8C%9F;Code.+Create.+Contribute." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Badges & Views -->
-<p align="center">
+<!-- Profile Views + Social Badges..... -->
+<p>
   <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=0e7490" alt="Portfolio"/>
   </a>
@@ -32,20 +31,9 @@
 
 </div>
 
-<br/>
+---
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                        -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<br/>
+##  About Me
 
 ```ts
 const sumanth = {
@@ -59,76 +47,61 @@ const sumanth = {
 };
 ```
 
-<br/>
+-  I build full-stack apps with the **MERN stack** — clean UIs, robust APIs, secure auth flows.
+-  Currently leveling up in **scalable backend architecture**, **cloud deployment** & **performance optimization**.
+-  Career goal: ship production-ready software that matters.
 
-- 🚀 I build full-stack apps with the **MERN stack** — clean UIs, robust APIs, secure auth flows.
-- ⚡ Currently leveling up in **scalable backend architecture**, **cloud deployment** & **performance optimization**.
-- 🎯 Career goal: ship production-ready software that matters.
+---
 
-<br/>
+##  Tech Stack
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
+###  Languages & Frameworks
 
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                    TECH STACK                       -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<br/>
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-<br/>
+###  Databases & Cloud
 
-### 🗄️ Databases & Cloud
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,aws,redis&theme=dark" alt="Databases and Cloud" />
 </p>
 
-<sub><b>AWS services:</b> EC2 · S3 · Lambda · CloudFront</sub>
-
-<br/><br/>
+<sub>AWS services: EC2 · S3 · Lambda · CloudFront</sub>
 
 ### 🔧 Tooling & Practices
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=redux,git,github,vite,docker,vercel,netlify&theme=dark" alt="Tools" />
 </p>
 
-<sub><b>Also:</b> REST APIs · JWT Auth · WebSocket · Render · Chart.js</sub>
+<sub>Also: REST APIs · JWT Auth · WebSocket · Render · Chart.js</sub>
 
-</div>
+---
 
-<br/>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
+
+##  GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                   -->
-<!-- ═══════════════════════════════════════════════════ -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" alt="Top Languages"/>
 
-<h2 align="center">📂 Featured Projects</h2>
+</div>
 
-<br/>
+---
+
+##  Featured Projects
 
 <div align="center">
 
 | 🏷️ | Project | Description | Stack | Links |
-|:---:|---|---|---|:---:|
+|---|---|---|---|---|
 | 1 | **Employee Leave Management** | Enterprise leave tracking · multi-role auth · approval workflows · analytics dashboard | `MERN` `JWT` | [Code](https://github.com/sumanth965/Employee-Leave-Management-System) · [Demo](https://elms-management.onrender.com/) |
 | 2 | **Smart Student Productivity** | Task management · deadline tracking · schedule optimization | `React` `Node.js` | [Code](https://github.com/sumanth965/smart-student-productivity-system) · [Demo](https://smart-student-productivity-system.onrender.com/) |
 | 3 | **Online Art Auction** | Real-time auction platform · WebSocket bidding · curated galleries | `MERN` `WebSocket` | [Code](https://github.com/sumanth965/Online-Art-Auction) · [Demo](https://online-art-auction.vercel.app/) |
@@ -136,126 +109,55 @@ const sumanth = {
 | 5 | **Foodify** | Food delivery platform · menu management · order flow · admin panel | `MERN` `Redux` | [Code](https://github.com/sumanth965/Foodify) · [Demo](https://foodify-frontend-4vlo.onrender.com) |
 | 6 | **TST Gadgets** | E-commerce gadget storefront + admin panel for inventory & products | `MERN` `E-commerce` | [Code](https://github.com/sumanth965/TST_Electronic_Gadgets-) · [Demo](https://tst-electronic-gadgets-su-manth09.onrender.com) |
 
-<br/>
+</div>
 
 > 🔗 Explore all projects → **[Portfolio](https://portfolio-sumanth-wiee.onrender.com/)**
 
-</div>
+---
 
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                 GITHUB ANALYTICS                    -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
+##  DSA & Problem Solving
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Trees%20%7C%20DP%20%7C%20Graphs-22d3ee?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Practice-Daily-10b981?style=for-the-badge&logoColor=white&labelColor=0f172a" />
 
 </div>
-
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--             DSA & PROBLEM SOLVING                   -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">🧩 DSA & Problem Solving</h2>
-
-<br/>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Arrays%20%7C%20Trees%20%7C%20DP%20%7C%20Graphs-22d3ee?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" alt="Focus Areas"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Practice-Daily-10b981?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Practice Daily"/>
-</p>
 
 <br/>
 
 - 🔗 **LeetCode:** [leetcode.com/sumanth965](https://leetcode.com/sumanth965)
 - 🔗 **DSA Solutions Repo:** [leetcode-dsa-solutions](https://github.com/sumanth965/leetcode-dsa-solutions)
 
-</div>
+---
 
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                 CONNECT WITH ME                     -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<h2 align="center">🌐 Let's Connect</h2>
-
-<br/>
+##  Connect With Me
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/sumanth965" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40sumanth965-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/sumanth965" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-sumanth965-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sumanth965/leetcode-dsa-solutions" target="_blank">
-    <img src="https://img.shields.io/badge/DSA%20Repo-Solutions-6366f1?style=for-the-badge&logo=git&logoColor=white" alt="DSA Repo"/>
-  </a>
-</p>
+<a href="https://github.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%40sumanth965-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0e7490?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/sumanth965" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-sumanth965-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumanth965/leetcode-dsa-solutions" target="_blank">
+  <img src="https://img.shields.io/badge/DSA%20Repo-Solutions-6366f1?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9f278211b61.gif" width="100%" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                     FOOTER                          -->
-<!-- ═══════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:0d1117&height=120&section=footer&text=%E2%AD%90%20Code.%20Create.%20Contribute.&fontSize=20&fontColor=94a3b8&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:0d1117&height=120&section=footer&text=⭐%20Code.%20Create.%20Contribute.&fontSize=20&fontColor=94a3b8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
