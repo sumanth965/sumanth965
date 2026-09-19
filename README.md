@@ -1,33 +1,41 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         HEADER                                -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:06b6d4&height=220&section=header&text=Sumanth&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descColor=bae6fd&animation=fadeIn" width="100%"/>
+<!--                         HEADER IMAGE                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f3b57,100:06b6d4&height=170&section=header&text=Sumanth&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=%3C+Full-Stack+MERN+Developer+%2F%3E;Building+Scalable+Web+Apps+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Open+to+Opportunities+%F0%9F%8C%9F;Code.+Create.+Contribute." alt="Typing SVG" />
+# Hey there, I'm Sumanth 👋
 
-<br/><br/>
+### Full-Stack MERN Developer • DSA Enthusiast • Lifelong Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+web+experiences;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Express;Solving+DSA+problems+every+day;Exploring+Cloud+%26+System+Design;Code.+Create.+Contribute." alt="Typing animation" />
+
+<br/>
 
 <p>
-  <a href="https://portfolio-sumanth-wiee.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge&logoColor=38bdf8&labelColor=0f172a&color=0e7490" alt="Portfolio"/>
+  <a href="https://komarev.com/ghpvc/?username=sumanth965&label=Profile%20Views&color=06b6d4&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/sumanth965" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&color=1e293b" alt="GitHub"/>
+
+  <a href="https://github.com/sumanth965?tab=followers">
+    <img src="https://img.shields.io/github/followers/sumanth965?logo=github&style=for-the-badge&color=0e7490&labelColor=0f172a" alt="GitHub Followers"/>
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/sumanth965" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+
+  <a href="https://github.com/sumanth965?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sumanth965?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38bdf8&labelColor=0f172a" alt="GitHub Stars"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sumanth965&label=Profile+Views&color=0e7490&style=for-the-badge" alt="Profile Views"/>
+
+  <a href="https://portfolio-sumanth-wiee.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
