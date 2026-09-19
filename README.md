@@ -12,7 +12,6 @@
 
 <br/>
 
-# Hey there, I'm Sumanth 👋
 
 ### Full-Stack MERN Developer • DSA Enthusiast • Lifelong Learner
 
