@@ -109,29 +109,34 @@ const sumanth = {
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=0e7490" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth965&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanth965&theme=rose_pine" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumanth965&theme=rose_pine" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumanth965&theme=rose_pine" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumanth965&theme=rose_pine" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumanth965&theme=rose_pine&utcOffset=5.5" alt="Productive Time" />
+</p>
 
-<br/>
+<p align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth965&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumanth965&theme=rose-pine&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumanth965&theme=rosepine&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!--                     FEATURED PROJECTS                          -->
