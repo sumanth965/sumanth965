@@ -104,9 +104,7 @@ const sumanth = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                     GITHUB ANALYTICS                           -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Analytics
@@ -114,29 +112,43 @@ const sumanth = {
 <div align="center">
 
 <h3>📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanth965&theme=rose_pine" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumanth965&theme=rose_pine" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumanth965&theme=rose_pine" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumanth965&theme=rose_pine" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumanth965&theme=rose_pine&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanth965&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumanth965&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumanth965&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumanth965&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumanth965&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=sumanth965&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumanth965&theme=rose-pine&hide_border=true" alt="GitHub streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sumanth965&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumanth965&theme=rosepine&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sumanth965&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  width="100%" 
+/>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!--                     FEATURED PROJECTS                          -->
